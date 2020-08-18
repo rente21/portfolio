@@ -1,13 +1,12 @@
-# 業務経歴書
+# ポートフォリオ
 
-## 基本情報
+## プロフィール
 
-|key|value|
-|----|----|
-|名前|rente|
-|住まい|茨城県|
-|Twitter|[@rente_21](https://twitter.com/rente_21) (フォロワー約2,500)|
+|活動名|rente|
+|出身|茨城県|
+|Twitter|[@rente_21](https://twitter.com/rente_21) (フォロワー2,500)|
 |Coconala|[rente](https://profile.coconala.com/users/1555261) (販売実績5件以上)|
+|CrowdWorks|[rente](https://crowdworks.jp/public/employees/3099420?ref=mypage_nav1_account) (販売実績5件以上)|
 
 ## 概要
 
@@ -50,7 +49,7 @@ Authentication | Cloud Firestore | Storage | Cloud Messaging
 
 ### マッチングアプリのバックエンド構築【PHP/SQL/Firebase/Unity/GMO】
 
-【担当業務】
+#### 担当業務
 - ホームページのデザイン+コーディング+システム設計
 - PHPを使ったUnityとSQLの連携
 - PHP+Firebaseを使用したサインイン機能作成
