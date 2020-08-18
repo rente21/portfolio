@@ -6,9 +6,9 @@
 |----|----|
 |活動名|rente|
 |出身|茨城県|
-|Twitter|[@rente_21](https://twitter.com/rente_21) (フォロワー2,500)|
-|Coconala|[rente](https://profile.coconala.com/users/1555261) (販売実績5件以上)|
-|CrowdWorks|[rente](https://crowdworks.jp/public/employees/3099420?ref=mypage_nav1_account) (販売実績5件以上)|
+|Twitter|[@rente_21](https://twitter.com/rente_21)|
+|Coconala|[rente](https://profile.coconala.com/users/1555261)|
+|CrowdWorks|[rente](https://crowdworks.jp/public/employees/3099420?ref=mypage_nav1_account)|
 
 ## 概要
 
