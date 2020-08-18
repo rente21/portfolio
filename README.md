@@ -2,6 +2,7 @@
 
 ## プロフィール
 
+|----|----|
 |活動名|rente|
 |出身|茨城県|
 |Twitter|[@rente_21](https://twitter.com/rente_21) (フォロワー2,500)|
