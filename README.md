@@ -13,7 +13,7 @@
 
 ## 概要
 
-- Webサイト作成、データベース連携、アプリ等のバックエンド構築が専門です。
+- ホームページ制作、データベース連携が専門です。
 
 ## スキル (実務で使用したもののみ)
 
@@ -50,17 +50,29 @@ Authentication | Cloud Firestore | Storage | Cloud Messaging
 
 ## 実績・業務経歴
 
-### Webサイト作成
+### ホームページ制作
 
 - [美容系サロンサイト](https://charm-plus.tokyo)
 - [野菜系ECサイト](https://vezima.buyshop.jp)
 - [マッチングアプリのトップページ](https://paypapa.jp)
 - [コスメ系ECサイト](https://bestnetkyuus.shopselect.net)
 
-### マッチングアプリのバックエンド構築【PHP/SQL/Firebase/Unity/GMO】
+### データベース連携
 
-#### 担当業務
+#### マッチングアプリのデータベース連携【PHP/SQL/Firebase/Unity/GMO】
+
+##### 担当業務
 - ホームページのデザイン+コーディング+システム設計
 - PHPを使ったUnityとSQLの連携
 - PHP+Firebaseを使用したサインイン機能作成
 - GMOを使った決済機能の導入
+
+#### 実績記録サービスの作成 (私のみで作成)
+
+##### サイト
+- [jisseki](https://jisseki.xyz)
+
+##### 担当業務
+- Googleサインイン機能
+- タイトル+本文での実績追加機能
+- ノンサーバーで実現したかったため、Firebaseで全て実装
