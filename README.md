@@ -6,8 +6,8 @@
 |----|----|
 |本名|東野蓮|
 |出身|茨城県 つくば市|
-|Twitter|@rente_21(https://twitter.com/rente_21)|
-|Qiita|@rente_21(https://qiita.com/rente_21)|
+|Twitter|[@rente_21](https://twitter.com/rente_21)|
+|Qiita|[@rente_21](https://qiita.com/rente_21)|
 |Coconala|[rente](https://profile.coconala.com/users/1555261)|
 |CrowdWorks|[rente](https://crowdworks.jp/public/employees/3099420?ref=mypage_nav1_account)|
 
@@ -52,10 +52,10 @@ Authentication | Cloud Firestore | Storage | Cloud Messaging
 
 ### Webサイト作成
 
-- 美容系サロンサイト(https://charm-plus.tokyo)
-- 野菜系ECサイト(https://vezima.buyshop.jp)
-- マッチングアプリのトップページ(https://paypapa.jp)
-- コスメ系ECサイト(https://bestnetkyuus.shopselect.net)
+- [美容系サロンサイト](https://charm-plus.tokyo)
+- [野菜系ECサイト](https://vezima.buyshop.jp)
+- [マッチングアプリのトップページ](https://paypapa.jp)
+- [コスメ系ECサイト](https://bestnetkyuus.shopselect.net)
 
 ### マッチングアプリのバックエンド構築【PHP/SQL/Firebase/Unity/GMO】
 
