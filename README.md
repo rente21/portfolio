@@ -15,15 +15,15 @@
 
 - ホームページ制作、データベース連携が専門です。
 
-## スキル (実務で使用したもののみ)
+## スキル
 
 ### 言語
 
-PHP | JavaScript | C#
+PHP | JavaScript | Ruby | C#
 
 ### フレームワーク等
 
-jQuery | MySQL | Unity | GMO
+MySQL | jQuery | React | Vue.js | Argular.js | Ruby on Rails | Unity | GMO
 
 ### Firebase
 
@@ -57,22 +57,10 @@ Authentication | Cloud Firestore | Storage | Cloud Messaging
 - [マッチングアプリのトップページ](https://paypapa.jp)
 - [コスメ系ECサイト](https://bestnetkyuus.shopselect.net)
 
-### データベース連携
+### マッチングアプリのバックエンド開発【PHP/SQL/Firebase/Unity/GMO】
 
-#### マッチングアプリのデータベース連携【PHP/SQL/Firebase/Unity/GMO】
-
-##### 担当業務
+#### 担当業務
 - ホームページのデザイン+コーディング+システム設計
 - PHPを使ったUnityとSQLの連携
 - PHP+Firebaseを使用したサインイン機能作成
 - GMOを使った決済機能の導入
-
-#### 実績記録サービスの作成 (私のみで作成)
-
-##### サイト
-- [jisseki](https://jisseki.xyz)
-
-##### 担当業務
-- Googleサインイン機能
-- タイトル+本文での実績追加機能
-- ノンサーバーで実現したかったため、Firebaseで全て実装
