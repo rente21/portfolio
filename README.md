@@ -25,9 +25,15 @@ PHP | JavaScript | Ruby | C#
 
 MySQL | jQuery | React | Vue.js | Argular.js | Ruby on Rails | Unity | GMO
 
-### Firebase
+### クラウド
+
+#### Firebase
 
 Authentication | Cloud Firestore | Storage | Cloud Messaging
+
+#### AWS
+
+S3
 
 ## 可能な業務
 
