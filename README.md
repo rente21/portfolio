@@ -65,10 +65,10 @@ S3
 - [マッチングアプリのトップページ](https://paypapa.jp)
 - [コスメ系ECサイト](https://bestnetkyuus.shopselect.net)
 
-### マッチングアプリのバックエンド開発【PHP/SQL/Firebase/Unity/GMO】
+### マッチングアプリのバックエンド開発【PHP/SQL/JavaScript/Firebase/Unity/GMO】
 
 #### 担当業務
 - ホームページのデザイン+コーディング+システム設計
 - PHPを使ったUnityとSQLの連携
-- PHP+Firebaseを使用したサインイン機能作成
+- JavaScript+Firebaseを使用したサインイン機能作成
 - GMOを使った決済機能の導入
