@@ -21,7 +21,7 @@ Authentication | Realtime Database | Cloud Firestore | Cloud Storage | Cloud Mes
 
 GMOペイメントゲートウェイ | GMOイプシロン | ビデオグ
 
-## ポートフォリオ
+## 業務経歴
 
 ### ビデオグを使った動画販売サイトの構築 【PHP/Laravel/MySQL/ビデオグ】
 
