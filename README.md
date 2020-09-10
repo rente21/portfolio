@@ -1,63 +1,37 @@
 # ポートフォリオ
 
-## 概要
-
-- データベース等を使用したWEBサービスの開発、ホームページ作成が得意です。
-
 ## スキル
 
 ### 言語
 
-PHP | JavaScript | Ruby | C#
+PHP | JavaScript
 
-### フレームワーク等
+### フレームワーク
 
-MySQL | jQuery | React | Vue.js | Argular.js | Ruby on Rails | Unity | GMO
+Laravel
 
-### クラウド
+### RDB
+MariaDB | MySQL
+
+### SaaS
 
 #### Firebase
 
-Authentication | Cloud Firestore | Storage | Cloud Messaging
+Authentication | Realtime Database | Cloud Firestore | Cloud Storage | Cloud Messaging
 
-#### AWS
+#### その他
 
-S3
+GMOペイメントゲートウェイ | GMOイプシロン | ビデオグ
 
-## 可能な業務
+## ポートフォリオ
 
-### ホームページ作成
-- WEBデザイン
-- コーディング
-- CMS導入
-- ECサイト構築
-
-### データベース連携
-- MySQLとPHPの接続
-- 会員登録機能
-- ログイン・ログアウト機能
-- いいね機能
-- リアルタイムチャット機能
-- 画像アップロード&取得機能
-- プッシュ通知機能
-- 決済機能
-
-### アプリ開発
-- Unityのスクリプト部分
-
-## 実績・業務経歴
-
-### ホームページ制作
-
-- [美容系サロンサイト](https://charm-plus.tokyo)
-- [野菜系ECサイト](https://vezima.buyshop.jp)
-- [マッチングアプリのトップページ](https://paypapa.jp)
-- [コスメ系ECサイト](https://bestnetkyuus.shopselect.net)
-
-### マッチングアプリのバックエンド開発【PHP/SQL/JavaScript/Firebase/Unity/GMO】
+### ビデオグを使った動画販売サイトの構築 【PHP/Laravel/MySQL/ビデオグ】
 
 #### 担当業務
-- ホームページのデザイン+コーディング+システム設計
-- PHPを使ったUnityとSQLの連携
-- JavaScript+Firebaseを使用したサインイン機能作成
-- GMOを使った決済機能の導入
+- 
+
+### マッチングアプリのバックエンド構築 【PHP/MariaDB/JavaScript/Firebase/GMOペイメントゲートウェイ】
+
+#### 担当業務
+- ホームページ作成
+- API構築
