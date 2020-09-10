@@ -15,21 +15,30 @@ MariaDB | MySQL
 
 #### Firebase
 
-Authentication | Realtime Database | Cloud Firestore | Cloud Storage | Cloud Messaging
+Authentication | Cloud Firestore | Storage | Cloud Messaging
 
 #### その他
 
-GMOペイメントゲートウェイ | GMOイプシロン | ビデオグ
+GMOペイメントゲートウェイ | ビデオグ | econtext
 
 ## 業務経歴
 
-### ビデオグを使った動画販売サイトの構築 【PHP/Laravel/MySQL/ビデオグ】
+### ビデオグを使った動画販売サイトの構築 【PHP/Laravel/MySQL/ビデオグ/econtext】 (2020年)
 
 #### 担当業務
-- 
+- フロントエンド構築
+- バックエンド構築
+- ビデオグとの連携と閲覧制限
 
-### マッチングアプリのバックエンド構築 【PHP/MariaDB/JavaScript/Firebase/GMOペイメントゲートウェイ】
+開発は私のみであったため、認証や決済など幅広い機能を担当。
+Webサービス開発の基礎を学べる良い機会となった。
+
+### マッチングアプリのバックエンド構築 【PHP/MariaDB/JavaScript/Firebase/GMOペイメントゲートウェイ】 (2020年)
 
 #### 担当業務
-- ホームページ作成
 - API構築
+- 決済機能構築
+
+初めてサービス開発に携わり、非常に貴重な体験となった。
+主にバックエンド部分を担当し、PHP+MariaDBでAPIを構築。
+また、GMOペイメントゲートウェイを使用し、決済機能も担当。
