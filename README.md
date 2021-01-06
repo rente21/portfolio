@@ -13,6 +13,10 @@ MariaDB | MySQL
 
 ### SaaS
 
+#### AWS
+
+API Gateway | Lambda | RDS
+
 #### Firebase
 
 Authentication | Cloud Firestore | Storage | Cloud Messaging
