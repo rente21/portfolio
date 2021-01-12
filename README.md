@@ -9,19 +9,17 @@ PHP | JavaScript
 Laravel | VueJS
 
 ### RDB
-MariaDB | MySQL
+MySQL | MariaDB
 
-### SaaS
+### AWS
 
-#### AWS
+VPC | EC2 | Route53 | RDS
 
-API Gateway | Lambda | RDS
-
-#### Firebase
+### Firebase
 
 Authentication | Cloud Firestore | Storage | Cloud Messaging
 
-#### その他
+### その他
 
 GMOペイメントゲートウェイ | ビデオグ | econtext
 
