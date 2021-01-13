@@ -13,7 +13,7 @@ MySQL | MariaDB
 
 ### AWS
 
-VPC | EC2 | Route53 | RDS
+VPC | EC2 | Route53 | RDS | ELB
 
 ### Firebase
 
