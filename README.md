@@ -5,7 +5,6 @@
 |key|value|
 |---|-----|
 |名前|東野蓮|
-|Twitter|[@rente_21](https://twitter.com/rente_21)|
 
 ## スキル
 
