@@ -38,8 +38,8 @@ GitHub | Terraform | GMOペイメントゲートウェイ | ビデオグ | econt
 
 |用途|技術
 |----|----
-|フロントエンド|VueJS
-|バックエンド|Laravel
+|フロントエンド|JavaScript(Vue.js)
+|バックエンド|PHP(Laravel)
 |データベース|MySQL
 |ビデオストリーミング|ビデオグ
 |決済|econtext|
@@ -48,7 +48,7 @@ GitHub | Terraform | GMOペイメントゲートウェイ | ビデオグ | econt
 
 |用途|技術
 |----|----
-|フロントエンド|VueJS
+|フロントエンド|JavaScript(Vue.js)
 |バックエンド|PHP
 |データベース|MariaDB
 |チャット、SMS認証|Firebase
