@@ -1,3 +1,12 @@
+# 業務経歴書
+
+## 基本情報
+
+|key|value|
+|---|-----|
+|名前|東野蓮|
+|Twitter|[@rente_21](https://twitter.com/rente_21)|
+
 ## スキル
 
 ### 言語
@@ -6,14 +15,14 @@ PHP | JavaScript
 
 ### フレームワーク
 
-Laravel | VueJS
+Laravel | Vue.js
 
-### RDB
+### データベース
 MySQL | MariaDB
 
 ### AWS
 
-VPC | EC2 | Route53 | RDS | ELB
+VPC | EC2 | Route53 | RDS | ELB | IAM
 
 ### Firebase
 
@@ -21,11 +30,11 @@ Authentication | Cloud Firestore | Storage | Cloud Messaging
 
 ### その他
 
-GMOペイメントゲートウェイ | ビデオグ | econtext
+GitHub | Terraform | GMOペイメントゲートウェイ | ビデオグ | econtext
 
 ## 業務経歴
 
-### ビデオグを使った動画販売サイトの構築 (2020年)
+### ビデオグを使った動画販売サイトの構築
 
 |用途|技術
 |----|----
@@ -35,7 +44,7 @@ GMOペイメントゲートウェイ | ビデオグ | econtext
 |ビデオストリーミング|ビデオグ
 |決済|econtext|
 
-### マッチングアプリのフロントエンド&バックエンド構築 (2020年)
+### マッチングアプリのフロントエンド&バックエンド構築
 
 |用途|技術
 |----|----
