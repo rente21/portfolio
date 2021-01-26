@@ -8,28 +8,12 @@
 
 ## スキル
 
-### 言語
-
-PHP | JavaScript
-
-### フレームワーク
-
-Laravel | Vue.js
-
-### データベース
-MySQL | MariaDB
-
-### AWS
-
-VPC | EC2 | Route53 | RDS | ELB | IAM
-
-### Firebase
-
-Authentication | Cloud Firestore | Storage | Cloud Messaging
-
-### その他
-
-GitHub | Terraform | GMOペイメントゲートウェイ | ビデオグ | econtext
+【言語】JavaScript、PHP
+【FW】Vue.js、Laravel
+【DB】MySQL
+【IaaS】AWS(VPC、EC2、Route53、RDS、ELB、IAM)
+【SaaS】GitHub、Terraform、GMOペイメントゲートウェイ、ビデオグ、econtext
+【mBaaS】Firebase(Authentication、Cloud Firestore、Storage、Cloud Messaging)
 
 ## 実務経験
 
