@@ -31,7 +31,7 @@
 
 |用途|技術
 |----|----
-|FE|JavaScript、PHP
+|言語|JavaScript、PHP
 |FW|Vue.js、Laravel
 |DB|MySQL
 |SaaS|ビデオグ、econtext
