@@ -10,7 +10,7 @@
 
 【言語】JavaScript、PHP
 <br>【FW】Vue.js、Laravel、Slim
-<br>【DB】zd
+<br>【DB】MySQL
 <br>【IaaS】AWS(VPC、EC2、Route53、RDS、ELB、IAM)
 <br>【SaaS】GitHub、Terraform、GMOペイメントゲートウェイ、ビデオグ、econtext
 <br>【mBaaS】Firebase(Authentication、Cloud Firestore、Storage、Cloud Messaging)
