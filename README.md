@@ -9,8 +9,8 @@
 ## スキル
 
 【言語】JavaScript、PHP
-<br>【FW】Vue.js、Laravel
-<br>【DB】MySQL
+<br>【FW】Vue.js、Laravel、Slim
+<br>【DB】zd
 <br>【IaaS】AWS(VPC、EC2、Route53、RDS、ELB、IAM)
 <br>【SaaS】GitHub、Terraform、GMOペイメントゲートウェイ、ビデオグ、econtext
 <br>【mBaaS】Firebase(Authentication、Cloud Firestore、Storage、Cloud Messaging)
@@ -21,18 +21,17 @@
 
 |用途|技術
 |----|----
-|フロントエンド|JavaScript(Vue.js)
-|バックエンド|PHP
-|データベース|MariaDB
-|チャット、SMS認証|Firebase
-|決済|GMOペイメントゲートウェイ|
+|FE|JavaScript(Vue.js)
+|BE|PHP（Slim）
+|DB|MySQL
+|SaaS|GMOペイメントゲートウェイ
+|mBaaS|Firebase
 
 ### ビデオグを使った動画販売サイトの構築(2020年8月~2021年1月)
 
 |用途|技術
 |----|----
-|フロントエンド|JavaScript(Vue.js)
-|バックエンド|PHP(Laravel)
-|データベース|MySQL
-|ビデオストリーミング|ビデオグ
-|決済|econtext|
+|FE|JavaScript(Vue.js)
+|BE|PHP(Laravel)
+|DB|MySQL
+|SaaS|ビデオグ、econtext
