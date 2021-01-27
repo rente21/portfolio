@@ -21,8 +21,8 @@
 
 |用途|技術
 |----|----
-|FE|JavaScript(Vue.js)
-|BE|PHP（Slim）
+|言語|JavaScript、PHP
+|FW|Vue.js、Slim
 |DB|MySQL
 |SaaS|GMOペイメントゲートウェイ
 |mBaaS|Firebase
@@ -31,7 +31,7 @@
 
 |用途|技術
 |----|----
-|FE|JavaScript(Vue.js)
-|BE|PHP(Laravel)
+|FE|JavaScript、PHP
+|FW|Vue.js、Laravel
 |DB|MySQL
 |SaaS|ビデオグ、econtext
