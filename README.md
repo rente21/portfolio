@@ -9,7 +9,7 @@
 ## スキル
 
 【言語】JavaScript、PHP
-<br>【FW】Vue.js、Laravel、Slim
+<br>【FW】Vue.js、Nuct.js、Laravel
 <br>【DB】MySQL
 <br>【IaaS】AWS(VPC、EC2、Route53、RDS、ELB、IAM)
 <br>【SaaS】GitHub、Terraform、GMOペイメントゲートウェイ、ビデオグ、econtext
@@ -22,7 +22,7 @@
 |用途|技術
 |----|----
 |言語|JavaScript、PHP
-|FW|Vue.js、Slim
+|FW|Vue.js、Laravel
 |DB|MySQL
 |SaaS|GMOペイメントゲートウェイ
 |mBaaS|Firebase
