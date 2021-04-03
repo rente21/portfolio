@@ -9,10 +9,10 @@
 ## スキル
 
 【言語】JavaScript、PHP
-<br>【FW】Vue.js、Nuct.js、Laravel
+<br>【FW】Vue.js、Nuxt.js、Laravel
 <br>【DB】MySQL
 <br>【IaaS】AWS(VPC、EC2、Route53、RDS、ELB、IAM)
-<br>【SaaS】GitHub、Terraform、GMOペイメントゲートウェイ、ビデオグ、econtext
+<br>【SaaS】GitHub、Terraform、GMOペイメントゲートウェイ、ビデオグ、econtext、Github Actions
 <br>【mBaaS】Firebase(Authentication、Cloud Firestore、Storage、Cloud Messaging)
 
 ## 実務経験
