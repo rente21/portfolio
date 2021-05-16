@@ -8,17 +8,17 @@
 
 ## スキル
 
-【言語】JavaScript、PHP
-<br>【FW】Vue.js、Nuxt.js、Laravel
+【言語】JavaScript、TypeScript、Node.js、PHP
+<br>【FW】Vue.js、Nuxt.js、React、Next.js、Express.js、Laravel
 <br>【DB】MySQL
-<br>【IaaS】AWS(VPC、EC2、Route53、RDS、ELB、IAM、CloudFormation、S3、Cloudfront)
+<br>【IaaS】AWS(VPC、EC2、Route53、RDS、ELB、IAM、CloudFormation、S3、CloudFront)
 <br>【SaaS】GitHub、GMOペイメントゲートウェイ、ビデオグ、econtext、Github Actions、GitLab CI
 <br>【mBaaS】Firebase(Authentication、Realtime Database、Cloud Firestore、Storage、Cloud Messaging)
 
 ## 得意な業務（これまで使用した具体的な技術）
 
-- SPA開発(Vue.js、Nuxt.js)
-- MPA、APIサーバー開発(Laravel、MySQL)
+- SPA開発(Vue.js、Nuxt.js、React、Next.js)
+- MPA or APIサーバー開発(Laravel、MySQL)
 - CI/CDパイプラインの構築(Github Actions、GitLab CI)
 - インフラのコード化（CloudFormation）
 - 決済機能の作成（GMOペイメントゲートウェイ、econtext）
