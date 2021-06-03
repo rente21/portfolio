@@ -26,7 +26,7 @@
 - 決済機能の作成（GMOペイメントゲートウェイ、econtext）
 - チャットなどのリアルタイム処理（Realtime Database、Cloud Firestore）
 - プッシュ通知機能(Cloud Messaging)
-- SSL化(EC2+ELB+ACM)
+- ルーティング&SSL化(EC2/Route53/ELB/ACM)
 
 ## 実務経験
 
