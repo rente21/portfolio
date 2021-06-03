@@ -8,8 +8,8 @@
 
 ## スキル
 
-【言語】JavaScript、TypeScript、Node.js、PHP
-<br>【FW】Vue.js、Nuxt.js、React、Next.js、Express.js、Laravel
+【言語】JavaScript、TypeScript、Node.js、PHP、Ruby
+<br>【FW】Vue.js、Nuxt.js、React、Next.js、Express.js、Laravel、Rails
 <br>【DB】MySQL
 <br>【IaaS】AWS(VPC、EC2、Route53、RDS、ELB、IAM、CloudFormation、S3、CloudFront、ACM)
 <br>【SaaS】GitHub、GMOペイメントゲートウェイ、ビデオグ、econtext、Github Actions、GitLab CI
@@ -30,9 +30,10 @@
 
 ## 実務経験
 
-### 不動産系サービスのフロントエンド開発(2021年2月~現在に至る)
+### 不動産系サービスのフロントエンド/バックエンド開発(2021年2月~現在に至る)
 
 - SPA開発（Nuxt.js）
+- API開発(Rails)
 - CI/CDパイプラインの構築(GitLab CI、Github Actions)
 
 今まで個人でやっていたため、初めてのチーム開発でした。
