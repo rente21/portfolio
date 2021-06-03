@@ -11,7 +11,7 @@
 【言語】JavaScript、TypeScript、Node.js、PHP
 <br>【FW】Vue.js、Nuxt.js、React、Next.js、Express.js、Laravel
 <br>【DB】MySQL
-<br>【IaaS】AWS(VPC、EC2、Route53、RDS、ELB、IAM、CloudFormation、S3、CloudFront)
+<br>【IaaS】AWS(VPC、EC2、Route53、RDS、ELB、IAM、CloudFormation、S3、CloudFront、ACM)
 <br>【SaaS】GitHub、GMOペイメントゲートウェイ、ビデオグ、econtext、Github Actions、GitLab CI
 <br>【mBaaS】Firebase(Authentication、Realtime Database、Cloud Firestore、Storage、Cloud Messaging)
 <br>【その他】PHPUnit
@@ -26,6 +26,7 @@
 - 決済機能の作成（GMOペイメントゲートウェイ、econtext）
 - チャットなどのリアルタイム処理（Realtime Database、Cloud Firestore）
 - プッシュ通知機能(Cloud Messaging)
+- SSL化(EC2+ELB+ACM)
 
 ## 実務経験
 
@@ -56,3 +57,4 @@
 - プッシュ通知機能(Cloud Messaging)
 - 決済機能の開発（GMOペイメントゲートウェイ）
 - CI/CDパイプラインの構築(Github Actions)
+- レンタルサーバー → AWSへの移行
